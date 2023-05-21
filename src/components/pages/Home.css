@@ -1,0 +1,14 @@
+.Home {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.Home-header{
+    height: 20vh;
+    text-align: center;
+  }
+
+.Home-body{
+    height: calc(100vh - 20vh)
+}
